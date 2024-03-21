@@ -37,14 +37,14 @@ Cure Crafter is a helpful tool for anyone looking for personalized and natural w
   <img src="https://i.ibb.co/vP4j3qP/html.png" alt="html" border="0" width="80" height="50">
   <img src="https://i.ibb.co/4Y7xW5N/css.png" alt="css" border="0" width="60" height="50">
   <img src="https://i.ibb.co/kgDD4LZ/JS.png" alt="JS" border="0" width="60" height="50">
-  <img src="https://i.ibb.co/yQ0VC3b/bootstrap-removebg-preview.png" alt="bootstrap-removebg-preview" border="0" width="80" height="50">
+  <img src="https://i.ibb.co/yQ0VC3b/bootstrap-removebg-preview.png" alt="bootstrap-removebg-preview" border="0" width="70" height="50">
   <li><b>For Chatbot Logics: </b>For making and training chatbot🤖 we use python🐍 and <b>Intel® Extension for Pytorch</b></li>
   <img src="https://i.ibb.co/wpTTVmB/python.png" alt="python" border="0" width="80" height="50">
   <img src="https://i.ibb.co/VqFbDPK/pytorch.png" alt="pytorch" border="0" width="60" height="50">
   <li>
     <b>For building Web Application: </b>We use Flask to build our web application to make it simple and flexible.
   </li>
-  <img src="https://i.ibb.co/tXP9qSW/flask.png" alt="flask" border="0" width="60" height="50">
+  <img src="https://i.ibb.co/JHP7JrR/flask-removebg-preview.png" alt="flask-removebg-preview" border="0" width="80" height="50">
   <li><b>For Chatbot API: </b>For deploying the API of the chatbot🤖 and making it live we use Render</li>
   <img src="https://i.ibb.co/R4qNRpm/fotor-20240321132118.jpg" alt="render" border="0" width="60" height="50" >
 </ul>
