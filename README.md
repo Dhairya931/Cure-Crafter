@@ -1,7 +1,7 @@
 <h1>Cure Crafter👨‍⚕️⚕️</h1>
 <h3>Welcome to Cure Crafter respository!</h3>
 <h3>Made by Lazy Coders🧑‍💻</h3>
-<p>This repository contains a simple but effective <b>chat bot</b> which is designed to assist users to finding home remedies🌿 for common ailments using <b>Artificial Intelligence</b>.
+<p>This repository contains a prototype of a simple but effective <b>chat bot</b> which is designed to assist users to finding home remedies🌿 for common ailments using <b>Artificial Intelligence</b>.
 Whether user seeking for cure of pesky cold ,a bothersome headache, or a nagging cough, our <b>Cure Crafter</b>👨‍⚕️ is here to help them for getting the relief.</p>
 <h3>What is Cure Crafter?👨‍⚕️</h3>
 <p><b>Cure Crafter</b> is a simple but effective chatbot that helps people discover natural and DIY solutions for various health problems. Unlike other chatbots that suggest typical medicines or products, Cure Crafter focuses on homemade remedies.
@@ -70,6 +70,7 @@ Cure Crafter is a helpful tool for anyone looking for personalized and natural w
   <img src="https://i.ibb.co/7xfvY7w/Screenshot-2024-03-22-094801.png" alt="#" border="0">
   <li>Navigate to chatting page through navbar.</li>
   <li>Start interacting with CureCrafter🥳</li>
+  <b>Note:</b> Due to Free version of Render it took sometime for reply at the first time.
 </ol>
 <h2>User Interface of our CureCrafter🌿🩺</h2>
 <h3>Home Page</h3>
