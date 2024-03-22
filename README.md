@@ -70,6 +70,7 @@ Cure Crafter is a helpful tool for anyone looking for personalized and natural w
   <img src="https://i.ibb.co/7xfvY7w/Screenshot-2024-03-22-094801.png" alt="#" border="0">
   <li>Navigate to chatting page through navbar.</li>
   <li>Start interacting with CureCrafter🥳</li>
+  <b>Note:</b> Due to Free version of Render it took sometime for reply at the first time.
 </ol>
 <h2>User Interface of our CureCrafter🌿🩺</h2>
 <h3>Home Page</h3>
