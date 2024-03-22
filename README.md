@@ -41,7 +41,7 @@ Cure Crafter is a helpful tool for anyone looking for personalized and natural w
   <img src="https://i.ibb.co/4Y7xW5N/css.png" alt="css" border="0" width="60" height="50">
   <img src="https://i.ibb.co/kgDD4LZ/JS.png" alt="JS" border="0" width="60" height="50">
   <img src="https://i.ibb.co/yQ0VC3b/bootstrap-removebg-preview.png" alt="bootstrap-removebg-preview" border="0" width="70" height="50">
-  <li><b>For Chatbot Logics: </b>For making and training chatbot🤖 we use python🐍 and <b>Intel® Extension for Pytorch</b></li>
+  <li><b>For Chatbot Logics: </b>For making and training chatbot🤖 we use python🐍 and <strong>Intel® Extension for Pytorch</strong></li>
   <img src="https://i.ibb.co/wpTTVmB/python.png" alt="python" border="0" width="80" height="50">
   <img src="https://i.ibb.co/VqFbDPK/pytorch.png" alt="pytorch" border="0" width="60" height="50">
   <li>
