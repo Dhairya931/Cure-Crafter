@@ -48,5 +48,40 @@ Cure Crafter is a helpful tool for anyone looking for personalized and natural w
   <li><b>For Chatbot API: </b>For deploying the API of the chatbot🤖 and making it live we use Render</li>
   <img src="https://i.ibb.co/R4qNRpm/fotor-20240321132118.jpg" alt="render" border="0" width="60" height="50" >
 </ul>
-
-
+<h3>Difference between CureCrafter🩺 and other Healthcare chatbots🤖</h3>
+<ul>
+  <li><b>Focus on Home Remedies: </b>Our website specifically focuses on providing home remedies for common health symptoms.Other healthcare chat bots might offer a wider range of services, but based on aloopathic treatment and promotion of the product of their organization.</li>
+  <li><b>Home Remedy Recommendations: </b>Our chat bot specializes in recommending home remedies, which are often natural or DIY solutions for managing symptoms. Other healthcare chat bots may focus more on recommending professional medical treatments or providing information about healthcare providers and facilities.</li>
+  <li><b>Integration with Traditional Medicine: </b>While our website emphasizes home remedies, other healthcare chat bots may integrate with allopathic medicine by providing information about medications, treatments, and healthcare professionals.</li>
+</ul>
+<h3>Steps to implement CureCrafter🌿</h3>
+<ol>
+  <li>Copy the clone URL of our repository or copy the link given: https://github.com/Dhairya931/Cure-Crafter.git. </li>
+  <img src="https://i.ibb.co/NtWRTJh/Screenshot-2024-03-22-093120.png" alt="#" border="0">
+  <li>Open VS Code or teminal.</li>
+  <li>Navigate to the directory where you want to copy the repository.</li>
+  <li>Clone the repository using git clone "paste link here". </li>
+  <img src="https://i.ibb.co/V908VSp/Screenshot-2024-03-22-093237.png" alt="#" border="0">
+  <li>Wait for the clone to complete.</li>
+  <li>Install all the modules mention in requirements.txt, by running following command in terminal.</li>
+  <img src="https://i.ibb.co/txDtW2D/Screenshot-2024-03-22-100608.png" alt="Screenshot-2024-03-22-100608" border="0">
+  <li>Open the file web.py.</li>
+  <li>Run the web.py program, it generate a link of the website copy it and paste on the browser or can click on the link with CTRL key to open it directly.</li>
+  <img src="https://i.ibb.co/7xfvY7w/Screenshot-2024-03-22-094801.png" alt="#" border="0">
+  <li>Navigate to chatting page through navbar.</li>
+  <li>Start interacting with CureCrafter🥳</li>
+</ol>
+<h2>User Interface of our CureCrafter🌿🩺</h2>
+<h3>Home Page</h3>
+<p><img src="https://i.ibb.co/TBPvrbd/Screenshot-2024-03-22-003324.png" alt="Screenshot-2024-03-22-003324" border="0"></p>
+<h3>Chat Page</h3>
+<p><img src="https://i.ibb.co/Yfqrkq4/Screenshot-2024-03-22-003439.png" alt="Screenshot-2024-03-22-003439" border="0"></p>
+<h3>References📚</h3>
+<ul>
+  <li><b>For Dataset:</b>https://www.kaggle.com/datasets/shivanshmittal22/home-remedies</li>
+  <li><b>For building and learning:</b>Google and Youtube</li>
+</ul>
+<h3>Other Links🖇️</h3>
+<ul>
+  <li><b>Hugging Face:</b>https://huggingface.co/Dhairya2004/Cure-Crafter/tree/main</li>
+</ul>
