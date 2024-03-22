@@ -48,5 +48,15 @@ Cure Crafter is a helpful tool for anyone looking for personalized and natural w
   <li><b>For Chatbot API: </b>For deploying the API of the chatbot🤖 and making it live we use Render</li>
   <img src="https://i.ibb.co/R4qNRpm/fotor-20240321132118.jpg" alt="render" border="0" width="60" height="50" >
 </ul>
+<h3>Difference between CureCrafter🩺 and other Healthcare chatbots🤖</h3>
+<ul>
+  <li><b>Focus on Home Remedies: </b>Our website specifically focuses on providing home remedies for common health symptoms.Other healthcare chat bots might offer a wider range of services, but based on aloopathic treatment and promotion of the product of their organization.</li>
+  <li><b>Home Remedy Recommendations: </b>Our chat bot specializes in recommending home remedies, which are often natural or DIY solutions for managing symptoms. Other healthcare chat bots may focus more on recommending professional medical treatments or providing information about healthcare providers and facilities.</li>
+  <li><b>Integration with Traditional Medicine: </b>While our website emphasizes home remedies, other healthcare chat bots may integrate with allopathic medicine by providing information about medications, treatments, and healthcare professionals.</li>
+</ul>
+<h3>Steps to implement CureCrafter🌿</h3>
+<ol>
+  <li>Copy the clone URL of our repository or copy the link given: </li>
+</ol>
 
 
