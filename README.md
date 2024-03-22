@@ -57,10 +57,15 @@ Cure Crafter is a helpful tool for anyone looking for personalized and natural w
 <h3>Steps to implement CureCrafter🌿</h3>
 <ol>
   <li>Copy the clone URL of our repository or copy the link given: https://github.com/Dhairya931/Cure-Crafter.git. </li>
+  <img src="https://i.ibb.co/NtWRTJh/Screenshot-2024-03-22-093120.png" alt="#" border="0">
   <li>Open VS Code or teminal.</li>
   <li>Navigate to the directory where you want to copy the repository.</li>
   <li>Clone the repository using git clone "paste link here". </li>
+  <img src="https://i.ibb.co/V908VSp/Screenshot-2024-03-22-093237.png" alt="#" border="0">
   <li>Wait for the clone to complete.</li>
+  <li>Open the file web.py.</li>
+  <li>Run the web.py program, it generate a link of the website copy it and paste on the browser or can click on the link with CTRL key to open it directly.</li>
+  <img src="https://i.ibb.co/7xfvY7w/Screenshot-2024-03-22-094801.png" alt="#" border="0">
 </ol>
 
 
