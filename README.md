@@ -3,7 +3,7 @@
 <h3>Welcome to Cure Crafter respository!</h3>
 <h3>Made by Lazy Coders🧑‍💻</h3>
 <h3>Team Leader: Dhairya Maheshwari</h3>
-<h3>Team leader email: dhairyamaheshwari222@gmail.com</h3>
+<h3>Team leader email: <a href="dhairyamaheshwari222@gmail.com">dhairyamaheshwari222@gmail.com</a></h3>
 <p>This repository contains a prototype of a simple but effective <b>chat bot</b> which is designed to assist users to finding home remedies🌿 for common ailments using <b>Artificial Intelligence</b>.
 Whether user seeking for cure of pesky cold ,a bothersome headache, or a nagging cough, our <b>Cure Crafter</b>👨‍⚕️ is here to help them for getting the relief.</p>
 <h3>What is Cure Crafter?👨‍⚕️</h3>
